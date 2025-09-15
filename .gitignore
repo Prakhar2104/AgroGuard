@@ -1,0 +1,43 @@
+# Virtual envs
+agro_env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment file (keep secrets safe)
+.env
+
+# Large raw datasets (exclude from GitHub)
+dataset/
+preprocessed dataset/
+
+# Model files (ignore unless tracked with Git LFS)
+*.h5
+*.pth
+*.ckpt
+*.pt
+
+# Logs
+*.log
+logs/
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+
+
+# Exclude other large files except trained models
+# (Keep .keras and .pkl inside models folders)

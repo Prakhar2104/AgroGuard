@@ -1,0 +1,566 @@
+{
+  "diseases": {
+    "American Bollworm on Cotton": {
+      "treatment": [
+        "Spray Emamectin benzoate or Spinosad.",
+        "Install pheromone traps to monitor and reduce population.",
+        "Avoid excessive nitrogen fertilization."
+      ]
+    },
+    "Anthracnose on Cotton": {
+      "treatment": [
+        "Apply fungicides like chlorothalonil or mancozeb.",
+        "Remove and destroy infected plant debris.",
+        "Practice crop rotation."
+      ]
+    },
+    "Aphid": {
+      "treatment": [
+        "Spray Imidacloprid or Thiamethoxam.",
+        "Introduce natural predators like ladybird beetles.",
+        "Avoid overuse of nitrogen fertilizers."
+      ]
+    },
+    "Apple_Scab_Leaf": {
+      "treatment": [
+        "Use fungicides such as myclobutanil or propiconazole.",
+        "Prune affected branches.",
+        "Ensure good air circulation around trees."
+      ]
+    },
+    "Apple_leaf": {
+      "treatment": [
+        "Monitor for pest or fungal symptoms.",
+        "Apply appropriate fungicide if symptoms appear.",
+        "Maintain proper pruning and sanitation."
+      ]
+    },
+    "Apple_rust_leaf": {
+      "treatment": [
+        "Apply Myclobutanil or similar fungicides.",
+        "Remove alternate hosts like juniper nearby.",
+        "Improve air circulation around trees."
+      ]
+    },
+    "Army worm": {
+      "treatment": [
+        "Spray Chlorantraniliprole or Emamectin benzoate.",
+        "Use light traps to monitor adult moths.",
+        "Encourage natural predators like birds."
+      ]
+    },
+    "Becterial Blight in Rice": {
+      "treatment": [
+        "Apply Streptomycin with Copper oxychloride.",
+        "Use resistant rice varieties.",
+        "Avoid overhead irrigation and maintain field hygiene."
+      ]
+    },
+    "Bell_pepper_leaf": {
+      "treatment": [
+        "Monitor for mites or thrips.",
+        "Spray neem oil or recommended insecticides.",
+        "Remove heavily infested leaves."
+      ]
+    },
+    "Bell_pepper_leaf_spot": {
+      "treatment": [
+        "Apply copper-based fungicides.",
+        "Remove and destroy infected leaves.",
+        "Avoid wetting foliage during irrigation."
+      ]
+    },
+    "Black Rust": {
+      "treatment": [
+        "Spray Propiconazole or Tebuconazole.",
+        "Grow rust-resistant wheat varieties.",
+        "Remove volunteer wheat plants near fields."
+      ]
+    },
+    "Blast": {
+      "treatment": [
+        "Use Tricyclazole or Isoprothiolane at early stages.",
+        "Maintain proper spacing and drainage.",
+        "Avoid excessive nitrogen application."
+      ]
+    },
+    "Blueberry_leaf": {
+      "treatment": [
+        "Apply fungicides like Captan or Copper oxychloride.",
+        "Prune infected branches.",
+        "Improve air circulation and reduce humidity."
+      ]
+    },
+    "Brown Rust": {
+      "treatment": [
+        "Spray Mancozeb or Propiconazole.",
+        "Use resistant crop varieties.",
+        "Avoid dense planting and irrigate properly."
+      ]
+    },
+    "Brownspot": {
+      "treatment": [
+        "Apply Thiophanate-methyl or Mancozeb.",
+        "Improve field drainage.",
+        "Avoid excessive nitrogen and maintain spacing."
+      ]
+    },
+    "Cherry_leaf": {
+      "treatment": [
+        "Monitor for leaf spot symptoms.",
+        "Apply fungicide if needed.",
+        "Prune and dispose of infected leaves."
+      ]
+    },
+    "Common Root Rot": {
+      "treatment": [
+        "Use seed treatment with fungicides like Thiram.",
+        "Practice crop rotation.",
+        "Avoid overwatering and improve soil drainage."
+      ]
+    },
+    "Common_Rust": {
+      "treatment": [
+        "Spray Mancozeb or Azoxystrobin.",
+        "Grow rust-resistant maize hybrids.",
+        "Remove infected debris post-harvest."
+      ]
+    },
+    "Corn_Gray_leaf_spot": {
+      "treatment": [
+        "Apply fungicides like Strobilurins.",
+        "Rotate crops to reduce inoculum.",
+        "Use resistant maize hybrids."
+      ]
+    },
+    "Corn_leaf_blight": {
+      "treatment": [
+        "Use Mancozeb or Copper fungicides.",
+        "Remove infected plant debris.",
+        "Improve field ventilation."
+      ]
+    },
+    "Corn_rust_leaf": {
+      "treatment": [
+        "Spray Propiconazole or Mancozeb.",
+        "Grow resistant maize varieties.",
+        "Avoid overcrowding of plants."
+      ]
+    },
+    "Cotton Aphid": {
+      "treatment": [
+        "Spray Imidacloprid or Acephate.",
+        "Introduce predators like ladybird beetles.",
+        "Avoid excessive nitrogen application."
+      ]
+    },
+    "Flag Smut": {
+      "treatment": [
+        "Seed treatment with Thiram or Carbendazim.",
+        "Practice crop rotation.",
+        "Remove infected plants early."
+      ]
+    },
+    "Fusarium Head Blight": {
+      "treatment": [
+        "Apply Tebuconazole at flowering stage.",
+        "Avoid dense planting and excessive irrigation.",
+        "Use resistant wheat varieties."
+      ]
+    },
+    "Gray_Leaf_Spot": {
+      "treatment": [
+        "Use fungicides like Azoxystrobin or Mancozeb.",
+        "Rotate crops to reduce disease pressure.",
+        "Avoid excessive irrigation and maintain spacing."
+      ]
+    },
+    "Healthy": {
+      "treatment": [
+        "No treatment needed."
+      ]
+    },
+    "Healthy Maize": {
+      "treatment": [
+        "No treatment needed."
+      ]
+    },
+    "Healthy Wheat": {
+      "treatment": [
+        "No treatment needed."
+      ]
+    },
+    "Healthy cotton": {
+      "treatment": [
+        "No treatment needed."
+      ]
+    },
+    "Leaf Blight": {
+      "treatment": [
+        "Spray Mancozeb or Copper oxychloride.",
+        "Remove infected leaves and debris.",
+        "Improve air circulation and avoid overcrowding."
+      ]
+    },
+    "Leaf Curl": {
+      "treatment": [
+        "Use Imidacloprid or Acetamiprid.",
+        "Remove infected plants promptly.",
+        "Control whitefly vectors and maintain field hygiene."
+      ]
+    },
+    "Leaf smut": {
+      "treatment": [
+        "Apply fungicides like Propiconazole or Mancozeb.",
+        "Use resistant crop varieties.",
+        "Avoid excessive irrigation and maintain spacing."
+      ]
+    },
+    "Mildew": {
+      "treatment": [
+        "Spray Sulphur or Potassium bicarbonate.",
+        "Ensure proper spacing and airflow.",
+        "Avoid overhead irrigation and reduce humidity."
+      ]
+    },
+    "Mite": {
+      "treatment": [
+        "Apply acaricides such as Abamectin or Propargite.",
+        "Remove infested leaves and debris.",
+        "Introduce natural predators like predatory mites."
+      ]
+    },
+    "Mosaic sugarcane": {
+      "treatment": [
+        "Remove and destroy infected plants.",
+        "Use virus-free certified setts.",
+        "Control aphid and whitefly vectors."
+      ]
+    },
+    "Peach_leaf": {
+      "treatment": [
+        "Monitor for leaf curl symptoms.",
+        "Apply fungicide during dormant season.",
+        "Prune infected branches and improve airflow."
+      ]
+    },
+    "Potato_leaf_early_blight": {
+      "treatment": [
+        "Spray Mancozeb or Chlorothalonil.",
+        "Remove infected leaves and debris.",
+        "Practice crop rotation and avoid overhead irrigation."
+      ]
+    },
+    "Potato_leaf_late_blight": {
+      "treatment": [
+        "Use Metalaxyl or Cymoxanil-based fungicides.",
+        "Avoid overhead irrigation and waterlogging.",
+        "Destroy infected plant debris and maintain hygiene."
+      ]
+    },
+    "Raspberry_leaf": {
+      "treatment": [
+        "Apply fungicides as needed.",
+        "Prune infected parts and improve air circulation.",
+        "Avoid wet foliage and overcrowding."
+      ]
+    },
+    "RedRot sugarcane": {
+      "treatment": [
+        "Use resistant sugarcane varieties.",
+        "Apply Carbendazim to infected setts.",
+        "Avoid waterlogging and maintain field hygiene."
+      ]
+    },
+    "RedRust sugarcane": {
+      "treatment": [
+        "Spray Copper oxychloride or Mancozeb.",
+        "Remove infected leaves and debris.",
+        "Improve drainage and reduce humidity."
+      ]
+    },
+    "Rice Blast": {
+      "treatment": [
+        "Apply Tricyclazole or Isoprothiolane.",
+        "Maintain proper spacing and avoid dense planting.",
+        "Use resistant rice varieties and avoid excess nitrogen."
+      ]
+    },
+    "Septoria": {
+      "treatment": [
+        "Use Chlorothalonil or Mancozeb.",
+        "Remove infected leaves and crop residues.",
+        "Avoid overhead irrigation and improve airflow."
+      ]
+    },
+    "Smut": {
+      "treatment": [
+        "Seed treatment with Thiram or Carbendazim.",
+        "Remove infected heads promptly.",
+        "Practice crop rotation and field sanitation."
+      ]
+    },
+    "Soyabean_leaf": {
+      "treatment": [
+        "Spray Mancozeb or Propiconazole.",
+        "Remove infected leaves and maintain spacing.",
+        "Avoid excessive irrigation and improve drainage."
+      ]
+    },
+    "Squash_Powdery_mildew_leaf": {
+      "treatment": [
+        "Apply Sulphur or Potassium bicarbonate.",
+        "Ensure proper spacing and airflow.",
+        "Avoid wet foliage and overhead watering."
+      ]
+    },
+    "Stem fly": {
+      "treatment": [
+        "Spray Imidacloprid or Lambda-cyhalothrin.",
+        "Use sticky traps to monitor adult flies.",
+        "Remove and destroy infested plants."
+      ]
+    },
+    "Strawberry_leaf": {
+      "treatment": [
+        "Apply fungicides like Captan or Mancozeb.",
+        "Prune infected leaves and improve airflow.",
+        "Avoid wet foliage and overcrowding."
+      ]
+    },
+    "Sugarcane Healthy": {
+      "treatment": [
+        "No treatment needed."
+      ]
+    },
+    "Tan spot": {
+      "treatment": [
+        "Use fungicides like Tebuconazole or Mancozeb.",
+        "Rotate crops to reduce inoculum.",
+        "Avoid excessive nitrogen and maintain spacing."
+      ]
+    },
+    "Tomato_Early_blight_leaf": {
+      "treatment": [
+        "Spray Mancozeb or Chlorothalonil.",
+        "Remove infected leaves and debris.",
+        "Practice crop rotation and avoid wet foliage."
+      ]
+    },
+    "Tomato_Septoria_leaf_spot": {
+      "treatment": [
+        "Use Copper hydroxide or Mancozeb.",
+        "Remove infected leaves and avoid overhead irrigation.",
+        "Improve spacing and airflow."
+      ]
+    },
+    "Tomato_leaf": {
+      "treatment": [
+        "Monitor for pest or disease symptoms.",
+        "Apply appropriate insecticide or fungicide as needed.",
+        "Maintain field hygiene and proper spacing."
+      ]
+    },
+    "Tomato_leaf_bacterial_spot": {
+      "treatment": [
+        "Spray Copper hydroxide or Streptomycin.",
+        "Avoid overhead irrigation and wet foliage.",
+        "Remove infected leaves and improve airflow."
+      ]
+    },
+    "Tomato_leaf_late_blight": {
+      "treatment": [
+        "Use Metalaxyl or Mancozeb.",
+        "Destroy infected plant debris.",
+        "Avoid waterlogging and maintain spacing."
+      ]
+    },
+    "Tomato_leaf_mosaic_virus": {
+      "treatment": [
+        "Remove and destroy infected plants.",
+        "Use virus-free certified seeds.",
+        "Control whitefly vectors using insecticides."
+      ]
+    },
+    "Tomato_leaf_yellow_virus": {
+      "treatment": [
+        "Spray Imidacloprid or Thiamethoxam.",
+        "Remove infected plants promptly.",
+        "Control whitefly vectors and maintain hygiene."
+      ]
+    },
+    "Tomato_mold_leaf": {
+      "treatment": [
+        "Apply fungicides like Chlorothalonil or Mancozeb.",
+        "Improve air circulation and avoid wet foliage.",
+        "Remove infected leaves and debris."
+      ]
+    },
+    "Tungro": {
+      "treatment": [
+        "Remove and destroy infected rice plants.",
+        "Control green leafhopper vectors using insecticides.",
+        "Use resistant rice varieties and maintain field hygiene."
+      ]
+    },
+    "Two spotted spider mite": {
+      "treatment": [
+        "Spray Abamectin or Spiromesifen.",
+        "Introduce predatory mites like Phytoseiulus persimilis.",
+        "Avoid excessive nitrogen and monitor regularly."
+      ]
+    },
+    "Wheat Healthy": {
+      "treatment": [
+        "No treatment needed."
+      ]
+    },
+    "Wheat Septoria": {
+      "treatment": [
+        "Apply fungicides like Tebuconazole or Propiconazole.",
+        "Rotate crops and remove infected debris.",
+        "Avoid dense planting and improve airflow."
+      ]
+    },
+    "Wheat leaf rust": {
+      "treatment": [
+        "Spray Mancozeb or Propiconazole.",
+        "Use resistant wheat varieties.",
+        "Practice crop rotation and field sanitation."
+      ]
+    },
+    "Wheat yellow rust": {
+      "treatment": [
+        "Apply fungicides like Tebuconazole or Triadimefon.",
+        "Use rust-resistant cultivars.",
+        "Monitor fields and apply early treatment."
+      ]
+    },
+    "Wheat_powdery_mildew_leaf": {
+      "treatment": [
+        "Spray Sulphur or Tebuconazole.",
+        "Avoid excessive nitrogen and improve spacing.",
+        "Remove infected leaves and debris."
+      ]
+    },
+    "YellowRust sugarcane": {
+      "treatment": [
+        "Use resistant sugarcane varieties.",
+        "Apply Mancozeb or Propiconazole.",
+        "Improve drainage and reduce humidity."
+      ]
+    },
+    "Zucchini_leaf": {
+      "treatment": [
+        "Spray Chlorothalonil or Copper-based fungicides.",
+        "Remove infected leaves and improve airflow.",
+        "Avoid overhead irrigation and wet foliage."
+      ]
+    },
+    "Zucchini_mildew_leaf": {
+      "treatment": [
+        "Apply Potassium bicarbonate or Sulphur.",
+        "Ensure proper spacing and sunlight exposure.",
+        "Remove infected plant parts promptly."
+      ]
+    },
+    "Zucchini_virus_leaf": {
+      "treatment": [
+        "Remove and destroy infected plants.",
+        "Control aphid vectors using insecticides.",
+        "Use virus-free seeds and maintain hygiene."
+      ]
+    },
+    "Zucchini_whitefly_leaf": {
+      "treatment": [
+        "Spray Imidacloprid or Thiamethoxam.",
+        "Use yellow sticky traps to monitor whiteflies.",
+        "Remove heavily infested leaves and weeds."
+      ]
+    },
+    "Zucchini_yellow_leaf": {
+      "treatment": [
+        "Apply insecticides to control whiteflies and aphids.",
+        "Remove infected plants and maintain spacing.",
+        "Use resistant varieties and virus-free seeds."
+      ]
+    },
+    "Zucchini_leaf_bacterial_spot": {
+      "treatment": [
+        "Spray Copper hydroxide or Streptomycin.",
+        "Avoid overhead irrigation and wet foliage.",
+        "Remove infected leaves and improve airflow."
+      ]
+    },
+    "Zucchini_leaf_mosaic_virus": {
+      "treatment": [
+        "Remove and destroy infected plants.",
+        "Control aphid vectors using insecticides.",
+        "Use certified virus-free seeds."
+      ]
+    },
+    "Zucchini_leaf_late_blight": {
+      "treatment": [
+        "Apply Metalaxyl or Mancozeb.",
+        "Destroy infected plant debris.",
+        "Avoid waterlogging and maintain spacing."
+      ]
+    },
+    "Zucchini_mold_leaf": {
+      "treatment": [
+        "Spray Chlorothalonil or Copper oxychloride.",
+        "Improve air circulation and avoid wet foliage.",
+        "Remove infected leaves and debris."
+      ]
+    },
+    "Zucchini_leaf_yellow_virus": {
+      "treatment": [
+        "Spray Imidacloprid or Thiamethoxam.",
+        "Remove infected plants promptly.",
+        "Control whitefly vectors and maintain hygiene."
+      ]
+    },
+    "Zucchini_leaf_septoria": {
+      "treatment": [
+        "Use Mancozeb or Chlorothalonil.",
+        "Remove infected leaves and crop residues.",
+        "Avoid overhead irrigation and improve airflow."
+      ]
+    },
+    "Zucchini_leaf_early_blight": {
+      "treatment": [
+        "Spray Mancozeb or Copper oxychloride.",
+        "Remove infected leaves and debris.",
+        "Practice crop rotation and avoid wet foliage."
+      ]
+    },
+    "Zucchini_leaf_rust": {
+      "treatment": [
+        "Apply fungicides like Propiconazole or Mancozeb.",
+        "Remove infected leaves and maintain spacing.",
+        "Use resistant varieties and rotate crops."
+      ]
+    },
+    "Zucchini_leaf_powdery_mildew": {
+      "treatment": [
+        "Spray Sulphur or Potassium bicarbonate.",
+        "Ensure proper spacing and airflow.",
+        "Avoid wet foliage and overhead watering."
+      ]
+    },
+    "Zucchini_leaf_smut": {
+      "treatment": [
+        "Seed treatment with Thiram or Carbendazim.",
+        "Remove infected heads promptly.",
+        "Practice crop rotation and field sanitation."
+      ]
+    },
+    "Zucchini_leaf_tan_spot": {
+      "treatment": [
+        "Use fungicides like Tebuconazole or Mancozeb.",
+        "Rotate crops to reduce inoculum.",
+        "Avoid excessive nitrogen and maintain spacing."
+      ]
+    }
+  }
+}

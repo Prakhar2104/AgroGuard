@@ -1,0 +1,97 @@
+
+📘 Dataset: PlantDoc
+Apple_leaf: 88 images
+Apple_rust_leaf: 106 images
+Apple_Scab_Leaf: 93 images
+Bell_pepper_leaf: 42 images
+Bell_pepper_leaf_spot: 83 images
+Blueberry_leaf: 117 images
+Cherry_leaf: 57 images
+Corn_Gray_leaf_spot: 67 images
+Corn_leaf_blight: 194 images
+Corn_rust_leaf: 117 images
+grape_leaf: 75 images
+grape_leaf_black_rot: 79 images
+Peach_leaf: 112 images
+Potato_leaf_early_blight: 171 images
+Potato_leaf_late_blight: 208 images
+Raspberry_leaf: 119 images
+Soyabean_leaf: 65 images
+Squash_Powdery_mildew_leaf: 130 images
+Strawberry_leaf: 96 images
+Tomato_Early_blight_leaf: 88 images
+Tomato_leaf: 52 images
+Tomato_leaf_bacterial_spot: 110 images
+Tomato_leaf_late_blight: 111 images
+Tomato_leaf_mosaic_virus: 54 images
+Tomato_leaf_yellow_virus: 238 images
+Tomato_mold_leaf: 91 images
+Tomato_Septoria_leaf_spot: 157 images
+Tomato_two_spotted_spider_mites_leaf: 2 images
+
+-----------------------
+
+📘 Dataset: Agri India 20K
+American Bollworm on Cotton: 56 images
+Anthracnose on Cotton: 29 images
+Army worm: 40 images
+bacterial_blight in Cotton: 489 images
+Becterial Blight in Rice: 1584 images
+bollrot on Cotton: 2 images
+bollworm on Cotton: 22 images
+Brownspot: 1640 images
+Common_Rust: 1306 images
+Cotton Aphid: 39 images
+cotton mealy bug: 93 images
+cotton whitefly: 55 images
+Flag Smut: 179 images
+Gray_Leaf_Spot: 574 images
+Healthy cotton: 426 images
+Healthy Maize: 1162 images
+Healthy Wheat: 181 images
+Leaf Curl: 418 images
+Leaf smut: 40 images
+maize ear rot: 115 images
+maize fall armyworm: 108 images
+maize stem borer: 95 images
+Mosaic sugarcane: 462 images
+pink bollworm in cotton: 29 images
+red cotton bug: 69 images
+RedRot sugarcane: 592 images
+RedRust sugarcane: 75 images
+Rice Blast: 1440 images
+Sugarcane Healthy: 522 images
+thirps on  cotton: 36 images
+Tungro: 1308 images
+Wheat aphid: 156 images
+Wheat black rust: 161 images
+Wheat Brown leaf Rust: 90 images
+Wheat leaf blight: 143 images
+Wheat mite: 154 images
+Wheat powdery mildew: 169 images
+Wheat scab: 95 images
+Wheat Stem fly: 172 images
+Wheat___Yellow_Rust: 92 images
+Wilt: 419 images
+Yellow Rust Sugarcane: 505 images
+
+-----------------------
+
+📘 Dataset: Wheat Disease
+Aphid: 903 images
+Black Rust: 576 images
+Blast: 647 images
+Brown Rust: 1271 images
+Common Root Rot: 614 images
+Fusarium Head Blight: 611 images
+Healthy: 1000 images
+Leaf Blight: 842 images
+Mildew: 1081 images
+Mite: 800 images
+Septoria: 1144 images
+Smut: 1310 images
+Stem fly: 234 images
+Tan spot: 770 images
+Yellow Rust: 1301 images
+
+-----------------------

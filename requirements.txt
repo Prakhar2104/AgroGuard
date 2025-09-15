@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+Pillow
+numpy
+joblib
+pickle-mixin
+fpdf
+pyttsx3
+scikit-learn
